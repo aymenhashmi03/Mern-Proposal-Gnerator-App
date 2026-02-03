@@ -16,8 +16,6 @@ A full-stack web application for generating and managing proposals, built with R
 - React 18
 - React Router DOM
 - Tailwind CSS
-- Framer Motion
-- Axios
 - Lucide React Icons
 
 ### Backend
