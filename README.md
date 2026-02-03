@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proposal Generator App
 
 A full-stack web application for generating and managing proposals, built with React and Node.js.
@@ -102,3 +103,7 @@ The frontend will run on `http://localhost:3000` and the backend API on `http://
 ## License
 
 MIT
+=======
+# Mern-Proposal-Gnerator-App
+This is my Full Stack Proposal Generator App
+>>>>>>> d8aaa31d955de734955727b40cd8f7f75c5c4aff
