@@ -13,11 +13,8 @@ A full-stack web application for generating and managing proposals, built with R
 ## Tech Stack
 
 ### Frontend
-- React
-- Node.js
-- Express.js
+- React.js
 - React Router DOM
-- MongoDB
 - Tailwind CSS
 - Lucide React Icons
 
@@ -28,6 +25,10 @@ A full-stack web application for generating and managing proposals, built with R
 - JWT Authentication
 - bcryptjs for password hashing
 - Express Validator
+
+### Database
+- MongoDB
+- Mongoose
 
 ## Project Structure
 
