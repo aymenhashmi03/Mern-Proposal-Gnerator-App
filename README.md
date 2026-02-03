@@ -13,8 +13,11 @@ A full-stack web application for generating and managing proposals, built with R
 ## Tech Stack
 
 ### Frontend
-- React 18
+- React
+- Node.js
+- Express.js
 - React Router DOM
+- MongoDB
 - Tailwind CSS
 - Lucide React Icons
 
